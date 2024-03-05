@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Perro Guatón</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+#Contenedor {
+    height: 800px;
+    width: 100%;
+}
+#encabezado {
+    background-color: #B8AFE9;
+    height: 150px;
+    width: 100%;
+}
+#contenedor2 {
+    height: 500px;
+    width: 100%;
+}
+#Menú {
+    background-color: #F5CAEF;
+    float: left;
+    height: 500px;
+    width: 25%;
+}
+#contenido {
+    float: left;
+    height: 500px;
+    width: 75%;
+}
+#pie {
+    background-color: #FF5A9C;
+    clear: both;
+    height: 150px;
+    width: 100%;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="Contenedor">
+  <div id="encabezado"><img src="../perro guaton.png" width="152" height="147" alt=""/><img src="../PEMEX-Gas-Station.jpg" width="833" height="144" alt=""/></div>
+  <div id="contenedor2">
+    <div id="Menú">
+      <p><a href="../Index.html">Inicio</a> </p>
+      <p><a href="../biografía (2).html">Biografía</a><a href="../Página1.html"></a> </p>
+      <p><a href="../galería (3).html">Galería</a></p>
+      <p><a href="../redess.html">Redes</a></p>
+    </div>
+    <div id="contenido"><!-- TemplateBeginEditable name="EditRegion3" --> <!-- TemplateEndEditable --></div>
+  </div>
+  <div id="pie">   <!-- TemplateBeginEditable name="EditRegion4" -->
+	<table width="951" border="1" align="center">
+	  <tbody>
+	    <tr>
+	      <td colspan="3" align="center">Toda la información está protegida con la ley. todos los derechos nos pertenecen ante la ley, OJO 2024 Renata Raygozita, Gael Sheipers (y Fefy) </td>
+        </tr>
+	    <tr>
+	      <td width="304"><img src="../instaa.png" width="100" height="100" alt=""/></td>
+	      <td width="279"><img src="../tik.png" width="100" height="90" alt=""/></td>
+	      <td width="346"><img src="../fb.png" width="150" height="100" alt=""/></td>
+        </tr>
+      </tbody>
+    </table>
+  <!-- TemplateEndEditable --></div>
+
+	
+</div>
+</body>
+</html>
